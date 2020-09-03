@@ -1,8 +1,8 @@
-1.	Bài toán.
+1.Bài toán.
   Bài toán phân loại văn bản với đầu vào là một đoạn văn bản bất kì có độ dài trung bình thuộc nhiều nhãn khác nhau.
   Đầu ra của bài toán là nhãn cho mỗi văn bản đầu vào.
 
-2.	Dữ liệu.
+2.Dữ liệu.
   Bộ dữ liệu gồm nhiều đoạn văn bản đã được gắn nhãn sẵn (một số ít không có nhãn) và phần lớn mỗi văn bản có nhiều hơn một nhãn.
 https://drive.google.com/drive/folders/1KrnWMjIIOGRTXcEfw3LqeCYdAZbfTygL?usp=sharing
 
