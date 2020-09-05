@@ -8,3 +8,6 @@
   Vì bài toán phân loại một nhãn nên ta chỉ chọn một nhãn với bài có nhiều nhãn( chọn nhãn thứ 2 vì nhãn thứ nhất quá bao quát). 
   Sau khi lấy các nhãn ra, thấy rằng số lượng nhãn rất lớn nhưng phần lớn các nhãn có ít dữ liệu mang nhãn đó. Do đó ta chỉ lấy ra khoảng 35 nhãn có nhiều dữ liệu nhất mà vẫn dữ được phần lớn dữ liệu (46048/59490).
 
+3.Code
+  file Simpleclassification để tiền sử lý dữ liệu.
+  file BoW và TF-IDF áp dụng thuật toán.
